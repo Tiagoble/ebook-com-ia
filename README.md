@@ -12,13 +12,14 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-## 💻 Tecnologias utilizadas no projeto
+## 💻 Tecnologias utilizadas no projeto e sites
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Copilot](https://www.bing.com/)
 - [LibreOffice](https://pt-br.libreoffice.org/)
 - [Firefly](https://firefly.adobe.com/)
 - [Freepik](https://br.freepik.com/)
+- [RedesBrasil](https://www.redesbrasil.com/)
   
 ## 🧠 Prompts
 
